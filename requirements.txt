@@ -6,7 +6,7 @@
 # packages (numpy 2.0.2, Python 3.12) to avoid upgrade/restart issues.
 
 # Core scientific stack
-numpy>=2.0.0,<3.0.0
+numpy>=2.0.0,<2.1.0
 pandas>=2.0.0,<3.0.0
 scipy>=1.12.0,<2.0.0
 matplotlib>=3.8.0,<4.0.0

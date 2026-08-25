@@ -1,0 +1,13 @@
+# Solution notebooks — do not push to students
+*solutions.ipynb
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

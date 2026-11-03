@@ -1,6 +1,9 @@
 # Solution notebooks — do not push to students
 *solutions.ipynb
 
+# Assignment notebooks — do not push to students
+*_assignment.ipynb
+
 # Python
 __pycache__/
 *.pyc
@@ -8,6 +11,9 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Large data artifacts (e.g. numpy memmap files from chapter notebooks)
+*.mmap
 
 # OS
 .DS_Store
